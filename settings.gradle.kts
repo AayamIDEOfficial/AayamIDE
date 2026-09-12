@@ -99,8 +99,7 @@ private fun cmdOutput(vararg args: String): String {
     .trim()
 }
 
-
- if(isGitRepo) {
+if(isGitRepo) {
   apply {
     plugin("com.mooltiverse.oss.nyx")
   }

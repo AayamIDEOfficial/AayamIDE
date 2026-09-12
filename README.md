@@ -55,7 +55,7 @@
 
 ## Installation
 [<img src="https://github.com/Kunzisoft/Github-badge/raw/main/get-it-on-github.svg"
-    alt="Get it on F-Droid"
+    alt="Get it on GitHub"
     height="80">](https://github.com/AndroidIDEOfficial/AndroidIDE/releases)
 
 > _Please install AndroidIDE from trusted sources only i.e._
