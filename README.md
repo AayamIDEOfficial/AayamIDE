@@ -54,10 +54,6 @@
 - [x] Git
 
 ## Installation
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.svg"
-    alt="Get it on F-Droid"
-    height="80">](https://f-droid.org/packages/com.itsaky.androidide)
 [<img src="https://github.com/Kunzisoft/Github-badge/raw/main/get-it-on-github.svg"
     alt="Get it on F-Droid"
     height="80">](https://github.com/AndroidIDEOfficial/AndroidIDE/releases)
@@ -66,7 +62,6 @@
 > - [_The AndroidIDE website_](https://androidide.com)
 > - [_GitHub Releases_](https://github.com/AndroidIDEOfficial/AndroidIDE/releases)
 > - [_GitHub Actions_](https://github.com/AndroidIDEOfficial/AndroidIDE/actions?query=branch%3Adev+event%3Apush)
-> - [_F-Droid_](https://f-droid.org/packages/com.itsaky.androidide/)
 
 - Download the AndroidIDE APK from the mentioned trusted sources.
 - Follow the
